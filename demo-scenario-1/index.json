@@ -1,12 +1,13 @@
 {
-  "title": "Automate repetitive namespace creation",
-  "description": "Automate repetitive namespace creation",
+  "title": "Write a shell script to create a N namespaces",
+  "description": "Automate repetitive namespace creation task",
   "difficulty": "Intermediate",
-  "time": "30 minutes",
+  "time": "60 minutes",
   "details": {
     "steps": [
       {
         "title": "Step 1",
+        "courseData": "step-1-background.sh",
         "text": "step1.md"
       }
     ],
@@ -18,7 +19,9 @@
     }
   },
   "environment": {
-    "uilayout": "vscode-terminal-split"
+    "hideintro": true,
+    "uilayout": "vscode-terminal-split",
+    "hideHiddenFiles": true
   },
   "backend": {
     "imageid": "kubernetes-cluster-running:1.18"

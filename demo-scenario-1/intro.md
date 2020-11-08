@@ -1,0 +1,1 @@
+# Create an automation for repetitive namespace creation
