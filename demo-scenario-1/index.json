@@ -9,7 +9,7 @@
         "title": "Step 1",
         "courseData": "step-1-background.sh",
         "code": "step-1-foreground.sh",
-        "verify": "step-1-verify.sh 2>&1 >> /root/verify_output.log",
+        "verify": "step-1-verify.sh",
         "text": "step1.md"
       }
     ],
