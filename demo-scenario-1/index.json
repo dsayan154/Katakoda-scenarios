@@ -20,7 +20,8 @@
   },
   "environment": {
     "hideintro": true,
-    "uilayout": "vscode-terminal-split",
+    "uilayout": "editor-terminal",
+    "uisettings": "bash",
     "hideHiddenFiles": true
   },
   "backend": {
